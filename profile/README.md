@@ -1,4 +1,4 @@
-![Wegap Banner](https://wegap.net/banner.png)
+![Wegap Banner](https://wegap.net/img/we-desk/wedesk_remote_control.webp)
 
 # 🚀 Welcome to Wegap
 
